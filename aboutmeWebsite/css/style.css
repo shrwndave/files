@@ -1,0 +1,29 @@
+
+/* Navbar styles */
+nav {
+    background-color: #f8f9fa;
+    padding: 10px;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+nav ul li.active a {
+    font-weight: bold;
+    
+}
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+/*footer style*/
+footer {
+    background-color:black;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
