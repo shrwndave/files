@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../TouristDestination/assets"
+		},
+		{
+			"path": "../../TouristDestination/images"
+		},
+		{
+			"path": "../../TouristDestination/model"
+		},
+		{
+			"path": "../../TouristDestination/pages"
+		},
+		{
+			"path": "../../TouristDestination/views"
+		}
+	]
+}
